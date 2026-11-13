@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../conexao-Wifi"
+		},
+		{
+			"name": "consumoAPICep",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
